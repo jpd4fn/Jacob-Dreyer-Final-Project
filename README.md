@@ -8,4 +8,3 @@ Navigate my website using these links
 
 * [Code Sample](./codesample.md)
 * [Hobbies](./hobby.md)
-* [Academy Performance](./marks.md)
