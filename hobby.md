@@ -1,4 +1,4 @@
-# Hobby
+# Hobbies
 
 I _like_ to visit these sites as hobby-
 
