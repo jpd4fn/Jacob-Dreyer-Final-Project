@@ -1,7 +1,7 @@
 # Home Page
-## Welcome, I am Steve Jobs
+## Welcome, I am Jacob Dreyer
 
-I am a student of CSE. And I do coding for pass time and I like to pass time making websites in markdown.
+I am a sophmore at the University of Missouri.
 
 Navigate my website using these links
 
